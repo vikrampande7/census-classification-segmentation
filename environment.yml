@@ -1,0 +1,29 @@
+name: census_analysis 
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  
+  - python=3.9 
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  
+  - scikit-learn
+  - imbalanced-learn 
+  - xgboost 
+  - lightgbm 
+  
+  - shap 
+
+  - umap-learn
+  - joblib
+  
+  - jupyter
+  - notebook
+  - ipykernel
+
+  - pip
+  - pip:
+    - umap-learn
