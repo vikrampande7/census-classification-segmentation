@@ -2,7 +2,7 @@
   <img src="data/census.jpg" alt="Census Logo" width="200"/>
 </p>
 
-## "Census Analysis"
+# "Census Analysis"
 
 This repo contains the code, results, models, report for Census Analysis.
 
@@ -10,7 +10,7 @@ This repo contains the code, results, models, report for Census Analysis.
 1. Supervised Learning (Classification)
 2. Unsupervised Learning (Clustering)
 
-### Datasets used:
+### Datasets used
 ---
 - The data set contains weighted census data extracted from the 1994 and 1995 Current Population Surveys conducted by the U.S. Census Bureau. Each line of the data set (censusbureau.data) contains 40 demographic and employment related variables as well as a weight for the observation and a label for each observation, which indicates whether a particular population component had an income that is greater than or less than $50k.
 
