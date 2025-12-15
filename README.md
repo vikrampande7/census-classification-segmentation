@@ -48,5 +48,5 @@ conda activate census_analysis
 jupyter notebook
 ```
 4. Running this command will automatically oopen a new tab in your web browser, showing a Jupyter Notebook dashboard. Ensure the correct python kernel is selected.
-5. Run these files: ```1_EDA.ipynb```, ```2_classification.ipynb```, ```3_segmentation.ipynb```
+5. Run these files: ```2_classification.ipynb```, ```3_segmentation.ipynb```
 6. **Note** that these file will require at lease at HIGH RAM CPU to run, as the Hyperparameter Configurations will also run, it will take 2 to 3 hours to run the classification file.
